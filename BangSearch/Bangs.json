@@ -1,0 +1,1419 @@
+[
+    {
+        "Trigger": "g",
+        "Title": "Google",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://www.google.com/search?q=%s",
+            "https://maps.google.com/maps?q=%s",
+            "https://images.google.com/images?q=%s",
+            "https://www.google.com/search?tbm=vid&q=%s",
+            "https://news.google.com/search?q=%s",
+            "https://www.google.com/search?tbm=shop&q=%s",
+            "https://translate.google.com/#auto/en/%s",
+            "https://scholar.google.com/scholar?q=%s"
+        ]
+    },
+    {
+        "Trigger": "google",
+        "Title": "Google",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://www.google.com/search?q=%s",
+            "https://maps.google.com/maps?q=%s",
+            "https://images.google.com/images?q=%s",
+            "https://www.google.com/search?tbm=vid&q=%s",
+            "https://news.google.com/search?q=%s",
+            "https://www.google.com/search?tbm=shop&q=%s",
+            "https://translate.google.com/#auto/en/%s",
+            "https://scholar.google.com/scholar?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gm",
+        "Title": "Google Maps",
+        "SubTitle": "Online Services - Maps",
+        "Urls": [
+            "https://maps.google.com/maps?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gmap",
+        "Title": "Google Maps",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://maps.google.com/maps?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gmaps",
+        "Title": "Google Maps",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://maps.google.com/maps?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gi",
+        "Title": "Google Images",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://images.google.com/images?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gimg",
+        "Title": "Google Images",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://images.google.com/images?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gt",
+        "Title": "Google Translate",
+        "SubTitle": "Translation - Google",
+        "Urls": [
+            "https://translate.google.com/#auto/en/%s"
+        ]
+    },
+    {
+        "Trigger": "tr",
+        "Title": "Google Translate",
+        "SubTitle": "Translation - Google",
+        "Urls": [
+            "https://translate.google.com/#auto/en/%s"
+        ]
+    },
+    {
+        "Trigger": "trans",
+        "Title": "Google Translate to English",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://translate.google.com/#auto/en/%s"
+        ]
+    },
+    {
+        "Trigger": "translate",
+        "Title": "Google Translate",
+        "SubTitle": "Translation - Google",
+        "Urls": [
+            "https://translate.google.com/#auto/en/%s"
+        ]
+    },
+    {
+        "Trigger": "gv",
+        "Title": "Google Video",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://www.google.com/search?tbm=vid&q=%s"
+        ]
+    },
+    {
+        "Trigger": "gn",
+        "Title": "Google News",
+        "SubTitle": "News - Aggregators",
+        "Urls": [
+            "https://news.google.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gnews",
+        "Title": "Google News",
+        "SubTitle": "News - Aggregators",
+        "Urls": [
+            "https://news.google.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gsc",
+        "Title": "Google Scholar",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://scholar.google.com/scholar?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gsch",
+        "Title": "Google Scholar",
+        "SubTitle": "Research - Academic",
+        "Urls": [
+            "https://scholar.google.com/scholar?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gscholar",
+        "Title": "Google Scholar",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://scholar.google.com/scholar?q=%s&btnG=Search&as_sdt=800000000001&as_sdtp=on"
+        ]
+    },
+    {
+        "Trigger": "scholar",
+        "Title": "Google Scholar",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://scholar.google.com/scholar?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gs",
+        "Title": "Google Shopping",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://www.google.com/search?tbm=shop&q=%s"
+        ]
+    },
+    {
+        "Trigger": "gf",
+        "Title": "Google Finance",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://finance.google.com/?q=%s&sa=N&tab=fe"
+        ]
+    },
+    {
+        "Trigger": "gdrive",
+        "Title": "Google Drive",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://drive.google.com/drive/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "drive",
+        "Title": "Google Drive",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://drive.google.com/drive/search?q=%s "
+        ]
+    },
+    {
+        "Trigger": "gca",
+        "Title": "Google CA",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://www.google.ca/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+        ]
+    },
+    {
+        "Trigger": "gcal",
+        "Title": "Google Calendar",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://calendar.google.com/calendar/b/0/r/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "mail",
+        "Title": "Google Mail",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://mail.google.com/mail/u/0/#inbox%s:"
+        ]
+    },
+    {
+        "Trigger": "yt",
+        "Title": "YouTube",
+        "SubTitle": "Multimedia - Video",
+        "Urls": [
+            "https://www.youtube.com/results?search_query=%s"
+        ]
+    },
+    {
+        "Trigger": "ty",
+        "Title": "YouTube",
+        "SubTitle": "Multimedia - Video",
+        "Urls": [
+            "https://www.youtube.com/results?search_query=%s"
+        ]
+    },
+    {
+        "Trigger": "ytb",
+        "Title": "Youtube",
+        "SubTitle": "Multimedia - Video",
+        "Urls": [
+            "https://www.youtube.com/results?search_query=%s"
+        ]
+    },
+    {
+        "Trigger": "you",
+        "Title": "YouTube",
+        "SubTitle": "Entertainment - Video",
+        "Urls": [
+            "https://www.youtube.com/results?search_query=%s"
+        ]
+    },
+    {
+        "Trigger": "youtube",
+        "Title": "YouTube",
+        "SubTitle": "Multimedia - Video",
+        "Urls": [
+            "https://www.youtube.com/results?search_query=%s"
+        ]
+    },
+    {
+        "Trigger": "ytm",
+        "Title": "Youtube Music",
+        "SubTitle": "Multimedia - Video",
+        "Urls": [
+            "https://music.youtube.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "gmail",
+        "Title": "GMail",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://mail.google.com/mail/#search/%s"
+        ]
+    },
+    {
+        "Trigger": "b",
+        "Title": "Bing",
+        "SubTitle": "Online Services - Bing",
+        "Urls": [
+            "https://www.bing.com/search?q=%s",
+            "https://images.bing.com/search?q=%s",
+            "https://videos.bing.com/search?q=%s",
+            "https://maps.bing.com/search?q=%s",
+            "https://news.bing.com/search?q=%s",
+            "https://www.bing.com/shop?q=%s"
+        ]
+    },
+    {
+        "Trigger": "bing",
+        "Title": "Bing",
+        "SubTitle": "Online Services - Bing",
+        "Urls": [
+            "https://www.bing.com/search?q=%s",
+            "https://images.bing.com/search?q=%s",
+            "https://videos.bing.com/search?q=%s",
+            "https://maps.bing.com/search?q=%s",
+            "https://news.bing.com/search?q=%s",
+            "https://www.bing.com/shop?q=%s"
+        ]
+    },
+    {
+        "Trigger": "bi",
+        "Title": "Bing Images",
+        "SubTitle": "Online Services - Search",
+        "Urls": [
+            "https://images.bing.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "bv",
+        "Title": "Bing Videos",
+        "SubTitle": "Online Services - Search",
+        "Urls": [
+            "https://videos.bing.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "ddg",
+        "Title": "DuckDuckGo",
+        "SubTitle": "Online Services - DuckDuckGo",
+        "Urls": [
+            "https://duckduckgo.com/?q=%s",
+            "https://duckduckgo.com/?q=%s&iax=images&ia=images",
+            "https://duckduckgo.com/?q=%s&iax=videos&ia=videos",
+            "https://duckduckgo.com/?q=%s&iar=news&ia=news",
+            "https://duckduckgo.com/?q=%s&iaxm=maps",
+            "https://duckduckgo.com/?q=%s&iax=shopping&ia=shopping",
+            "https://duckduckgo.com/?q=%s&ia=chat&bang=true"
+        ]
+    },
+    {
+        "Trigger": "duckduckgo",
+        "Title": "DuckDuckGo",
+        "SubTitle": "Online Services - DuckDuckGo",
+        "Urls": [
+            "https://duckduckgo.com/?q=%s",
+            "https://duckduckgo.com/?q=%s&iax=images&ia=images",
+            "https://duckduckgo.com/?q=%s&iax=videos&ia=videos",
+            "https://duckduckgo.com/?q=%s&iar=news&ia=news",
+            "https://duckduckgo.com/?q=%s&iaxm=maps",
+            "https://duckduckgo.com/?q=%s&iax=shopping&ia=shopping",
+            "https://duckduckgo.com/?q=%s&ia=chat&bang=true"
+        ]
+    },
+    {
+        "Trigger": "s",
+        "Title": "StartPage",
+        "SubTitle": "Online Services - StartPage",
+        "Urls": [
+            "https://www.startpage.com/sp/search?query=%s&cat=web",
+            "https://www.startpage.com/sp/search?query=%s&cat=images",
+            "https://www.startpage.com/sp/search?query=%s&cat=video",
+            "https://www.startpage.com/sp/search?query=%s&cat=news",
+            "https://www.startpage.com/sp/search?query=%s&cat=shopping"
+        ]
+    },
+    {
+        "Trigger": "sp",
+        "Title": "StartPage",
+        "SubTitle": "Online Services - StartPage",
+        "Urls": [
+            "https://www.startpage.com/sp/search?query=%s&cat=web",
+            "https://www.startpage.com/sp/search?query=%s&cat=images",
+            "https://www.startpage.com/sp/search?query=%s&cat=video",
+            "https://www.startpage.com/sp/search?query=%s&cat=news",
+            "https://www.startpage.com/sp/search?query=%s&cat=shopping"
+        ]
+    },
+    {
+        "Trigger": "startpage",
+        "Title": "StartPage",
+        "SubTitle": "Online Services - StartPage",
+        "Urls": [
+            "https://www.startpage.com/sp/search?query=%s&cat=web",
+            "https://www.startpage.com/sp/search?query=%s&cat=images",
+            "https://www.startpage.com/sp/search?query=%s&cat=video",
+            "https://www.startpage.com/sp/search?query=%s&cat=news",
+            "https://www.startpage.com/sp/search?query=%s&cat=shopping"
+        ]
+    },
+    {
+        "Trigger": "brave",
+        "Title": "Brave Search",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://search.brave.com/search?q=%s",
+            "https://search.brave.com/images?q=%s",
+            "https://search.brave.com/news?q=%s",
+            "https://search.brave.com/videos?q=%s",
+            "https://search.brave.com/goggles?q=%s"
+        ]
+    },
+    {
+        "Trigger": "ai",
+        "Title": "AI Chat",
+        "SubTitle": "Research - Reference",
+        "Urls": [
+            "https://chatgpt.com/?q=%s",
+            "https://copilot.microsoft.com?q=%s",
+            "https://duckduckgo.com/?q=%s&ia=chat&bang=true"
+        ]
+    },
+    {
+        "Trigger": "chat",
+        "Title": "AI Chat",
+        "SubTitle": "Research - Reference",
+        "Urls": [
+            "https://chatgpt.com/?q=%s",
+            "https://copilot.microsoft.com?q=%s",
+            "https://duckduckgo.com/?q=%s&ia=chat&bang=true"
+        ]
+    },
+    {
+        "Trigger": "map",
+        "Title": "Maps",
+        "SubTitle": "Online Services - Maps",
+        "Urls": [
+            "https://maps.google.com/maps?q=%s",
+            "https://maps.bing.com/?q=%s",
+            "https://duckduckgo.com/?q=%s&iaxm=maps",
+            "https://www.openstreetmap.org/search?query=%s"
+        ]
+    },
+    {
+        "Trigger": "maps",
+        "Title": "Maps",
+        "SubTitle": "Online Services - Maps",
+        "Urls": [
+            "https://maps.google.com/maps?q=%s",
+            "https://maps.bing.com/?q=%s",
+            "https://duckduckgo.com/?q=%s&iaxm=maps",
+            "https://www.openstreetmap.org/search?query=%s"
+        ]
+    },
+    {
+        "Trigger": "img",
+        "Title": "Images",
+        "SubTitle": "Online Services - Search",
+        "Urls": [
+            "https://images.google.com/images?q=%s",
+            "https://images.bing.com/search?q=%s",
+            "https://duckduckgo.com/?q=%s&iax=images&ia=images"
+        ]
+    },
+    {
+        "Trigger": "images",
+        "Title": "Images",
+        "SubTitle": "Online Services - Search",
+        "Urls": [
+            "https://images.google.com/images?q=%s",
+            "https://images.bing.com/search?q=%s",
+            "https://duckduckgo.com/?q=%s&iax=images&ia=images"
+        ]
+    },
+    {
+        "Trigger": "w",
+        "Title": "Wikipedia",
+        "SubTitle": "Online Services - Search",
+        "Urls": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wi",
+        "Title": "Wikipedia",
+        "SubTitle": "Research - Reference",
+        "Urls": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wk",
+        "Title": "wikipedia",
+        "SubTitle": "Research - Academic",
+        "Urls": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wen",
+        "Title": "Wikipedia (EN)",
+        "SubTitle": "Research - Academic",
+        "Urls": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wiki",
+        "Title": "Wikipedia",
+        "SubTitle": "Research - Academic",
+        "Urls": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wikipedia",
+        "Title": "Wikipedia",
+        "SubTitle": "Research - Academic",
+        "Urls": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wt",
+        "Title": "Wiktionary",
+        "SubTitle": "Research - Reference (words)",
+        "Urls": [
+            "https://en.wiktionary.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wikt",
+        "Title": "Wiktionary",
+        "SubTitle": "Research - Reference (words)",
+        "Urls": [
+            "https://en.wiktionary.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wten",
+        "Title": "Wiktionary",
+        "SubTitle": "Research - Reference (words)",
+        "Urls": [
+            "https://en.wiktionary.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wikten",
+        "Title": "Wiktionary",
+        "SubTitle": "Research - Reference (words)",
+        "Urls": [
+            "https://en.wiktionary.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "wiktionary",
+        "Title": "Wiktionary",
+        "SubTitle": "Research - Reference (words)",
+        "Urls": [
+            "https://en.wiktionary.org/wiki/Special:Search?search=%s"
+        ]
+    },
+    {
+        "Trigger": "gh",
+        "Title": "GitHub",
+        "SubTitle": "Tech - Programming",
+        "Urls": [
+            "https://github.com/search?type=repositories&q=%s",
+            "https://github.com/search?type=code&q=%s",
+            "https://github.com/search?type=issues&q=%s",
+            "https://github.com/search?type=pullrequests&q=%s",
+            "https://github.com/search?type=discussions&q=%s",
+            "https://github.com/search?type=users&q=%s",
+            "https://github.com/search?type=uscommitsers&q=%s",
+            "https://github.com/search?type=registrypackages&q=%s",
+            "https://github.com/search?type=wikis&q=%s",
+            "https://github.com/search?type=topics&q=%s",
+            "https://github.com/search?type=marketplace&q=%s"
+        ]
+    },
+    {
+        "Trigger": "git",
+        "Title": "GitHub",
+        "SubTitle": "Tech - Programming",
+        "Urls": [
+            "https://github.com/search?type=repositories&q=%s",
+            "https://github.com/search?type=code&q=%s",
+            "https://github.com/search?type=issues&q=%s",
+            "https://github.com/search?type=pullrequests&q=%s",
+            "https://github.com/search?type=discussions&q=%s",
+            "https://github.com/search?type=users&q=%s",
+            "https://github.com/search?type=uscommitsers&q=%s",
+            "https://github.com/search?type=registrypackages&q=%s",
+            "https://github.com/search?type=wikis&q=%s",
+            "https://github.com/search?type=topics&q=%s",
+            "https://github.com/search?type=marketplace&q=%s"
+        ]
+    },
+    {
+        "Trigger": "github",
+        "Title": "GitHub",
+        "SubTitle": "Tech - Programming",
+        "Urls": [
+            "https://github.com/search?type=repositories&q=%s",
+            "https://github.com/search?type=code&q=%s",
+            "https://github.com/search?type=issues&q=%s",
+            "https://github.com/search?type=pullrequests&q=%s",
+            "https://github.com/search?type=discussions&q=%s",
+            "https://github.com/search?type=users&q=%s",
+            "https://github.com/search?type=uscommitsers&q=%s",
+            "https://github.com/search?type=registrypackages&q=%s",
+            "https://github.com/search?type=wikis&q=%s",
+            "https://github.com/search?type=topics&q=%s",
+            "https://github.com/search?type=marketplace&q=%s"
+        ]
+    },
+    {
+        "Trigger": "r",
+        "Title": "Reddit",
+        "SubTitle": "Online Services - Social",
+        "Urls": [
+            "https://www.reddit.com/search/?q=%s&type=posts",
+            "https://www.reddit.com/search/?q=%s&type=communities",
+            "https://www.reddit.com/search/?q=%s&type=comments",
+            "https://www.reddit.com/search/?q=%s&type=media",
+            "https://www.reddit.com/search/?q=%s&type=people"
+        ]
+    },
+    {
+        "Trigger": "reddit",
+        "Title": "Reddit",
+        "SubTitle": "News - Aggregators",
+        "Urls": [
+            "https://www.reddit.com/search/?q=%s&type=posts",
+            "https://www.reddit.com/search/?q=%s&type=communities",
+            "https://www.reddit.com/search/?q=%s&type=comments",
+            "https://www.reddit.com/search/?q=%s&type=media",
+            "https://www.reddit.com/search/?q=%s&type=people"
+        ]
+    },
+    {
+        "Trigger": "imdb",
+        "Title": "IMDB",
+        "SubTitle": "Multimedia - Movies",
+        "Urls": [
+            "https://www.imdb.com/find?s=all&q=%s"
+        ]
+    },
+    {
+        "Trigger": "fb",
+        "Title": "Facebook",
+        "SubTitle": "Online Services - Social",
+        "Urls": [
+            "https://www.facebook.com/search.php/?q=%s"
+        ]
+    },
+    {
+        "Trigger": "ig",
+        "Title": "Instagram",
+        "SubTitle": "Online Services - Social",
+        "Urls": [
+            "https://www.instagram.com/explore/tags/%s/"
+        ]
+    },
+    {
+        "Trigger": "insta",
+        "Title": "Instagram",
+        "SubTitle": "Online Services - Social",
+        "Urls": [
+            "https://www.instagram.com/explore/tags/%s"
+        ]
+    },
+    {
+        "Trigger": "tw",
+        "Title": "Twitter",
+        "SubTitle": "Online Services - Social",
+        "Urls": [
+            "https://twitter.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "twitter",
+        "Title": "Twitter",
+        "SubTitle": "Online Services - Social",
+        "Urls": [
+            "https://twitter.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "x",
+        "Title": "X",
+        "SubTitle": "Online Services - Social",
+        "Urls": [
+            "https://x.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "ttv",
+        "Title": "Twitch",
+        "SubTitle": "Entertainment - Games (general)",
+        "Urls": [
+            "https://www.twitch.tv/search?term=%s"
+        ]
+    },
+    {
+        "Trigger": "twitch",
+        "Title": "Twitch.tv",
+        "SubTitle": "Entertainment - Games (general)",
+        "Urls": [
+            "https://www.twitch.tv/search?term=%s"
+        ]
+    },
+    {
+        "Trigger": "li",
+        "Title": "LinkedIn",
+        "SubTitle": "Online Services - Social",
+        "Urls": [
+            "https://www.linkedin.com/search/results/all/?keywords=%s"
+        ]
+    },
+    {
+        "Trigger": "linkedin",
+        "Title": "LinkedIn",
+        "SubTitle": "Online Services - Social",
+        "Urls": [
+            "https://www.linkedin.com/search/results/all/?keywords=%s"
+        ]
+    },
+    {
+        "Trigger": "p",
+        "Title": "Pinterest",
+        "SubTitle": "Multimedia - Images",
+        "Urls": [
+            "https://www.pinterest.com/search/pins/?q=%s"
+        ]
+    },
+    {
+        "Trigger": "f",
+        "Title": "Flickr",
+        "SubTitle": "Online Services - Search",
+        "Urls": [
+            "https://www.flickr.com/search/?q=%s"
+        ]
+    },
+    {
+        "Trigger": "a",
+        "Title": "Amazon.com",
+        "SubTitle": "Shopping - Online",
+        "Urls": [
+            "https://www.amazon.com/s?k=%s"
+        ]
+    },
+    {
+        "Trigger": "am",
+        "Title": "Amazon.com",
+        "SubTitle": "Shopping - Online",
+        "Urls": [
+            "https://www.amazon.com/s?k=%s"
+        ]
+    },
+    {
+        "Trigger": "az",
+        "Title": "Amazon.com",
+        "SubTitle": "Shopping - Online",
+        "Urls": [
+            "https://www.amazon.com/s?k=%s"
+        ]
+    },
+    {
+        "Trigger": "amazon",
+        "Title": "Amazon.com",
+        "SubTitle": "Shopping - Online",
+        "Urls": [
+            "https://www.amazon.com/s?k=%s"
+        ]
+    },
+    {
+        "Trigger": "e",
+        "Title": "eBay",
+        "SubTitle": "Shopping - Online (marketplace)",
+        "Urls": [
+            "https://www.ebay.com/sch/items/?_nkw=%s"
+        ]
+    },
+    {
+        "Trigger": "eb",
+        "Title": "eBay",
+        "SubTitle": "Shopping - Online (marketplace)",
+        "Urls": [
+            "https://www.ebay.com/sch/items/?_nkw=%s"
+        ]
+    },
+    {
+        "Trigger": "ebay",
+        "Title": "eBay",
+        "SubTitle": "Shopping - Online (marketplace)",
+        "Urls": [
+            "https://www.ebay.com/sch/items/?_nkw=%s"
+        ]
+    },
+    {
+        "Trigger": "osm",
+        "Title": "OpenStreetMap",
+        "SubTitle": "Online Services - Maps",
+        "Urls": [
+            "https://www.openstreetmap.org/search?query=%s"
+        ]
+    },
+    {
+        "Trigger": "ya",
+        "Title": "Yandex",
+        "SubTitle": "Online Services - Search (non-US)",
+        "Urls": [
+            "https://yandex.ru/search/?text=%s"
+        ]
+    },
+    {
+        "Trigger": "aw",
+        "Title": "ArchLinux Wiki",
+        "SubTitle": "Tech - Sysadmin (Arch)",
+        "Urls": [
+            "https://wiki.archlinux.org/index.php?title=Special%3ASearch&search=%s"
+        ]
+    },
+    {
+        "Trigger": "arch",
+        "Title": "ArchLinux Wiki",
+        "SubTitle": "Tech - Sysadmin (Arch)",
+        "Urls": [
+            "https://wiki.archlinux.org/index.php?title=Special%3ASearch&search=%s"
+        ]
+    },
+    {
+        "Trigger": "aur",
+        "Title": "Arch User Repository",
+        "SubTitle": "Tech - Sysadmin (Arch)",
+        "Urls": [
+            "https://aur.archlinux.org/packages/?K=%s"
+        ]
+    },
+    {
+        "Trigger": "deepl",
+        "Title": "DeepL Translator",
+        "SubTitle": "Translation - General",
+        "Urls": [
+            "https://www.deepl.com/translator#xx/en/%s"
+        ]
+    },
+    {
+        "Trigger": "wa",
+        "Title": "Wolfram|Alpha",
+        "SubTitle": "Research - Academic (math/cs)",
+        "Urls": [
+            "https://www.wolframalpha.com/input/?i=%s"
+        ]
+    },
+    {
+        "Trigger": "leo",
+        "Title": "dict.leo.org",
+        "SubTitle": "Research - Reference (words intl)",
+        "Urls": [
+            "https://dict.leo.org/german-english/%s"
+        ]
+    },
+    {
+        "Trigger": "mdn",
+        "Title": "Mozilla Developer Network",
+        "SubTitle": "Tech - Programming",
+        "Urls": [
+            "https://developer.mozilla.org/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "npm",
+        "Title": "npm",
+        "SubTitle": "Tech - Languages (javascript)",
+        "Urls": [
+            "https://www.npmjs.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "naver",
+        "Title": "Naver",
+        "SubTitle": "Online Services - Search",
+        "Urls": [
+            "https://search.naver.com/search.naver?where=nexearch&sm=osd&ie={inputEncoding}&query=%s"
+        ]
+    },
+    {
+        "Trigger": "ud",
+        "Title": "Urban Dictionary",
+        "SubTitle": "Research - Reference (fun)",
+        "Urls": [
+            "https://www.urbandictionary.com/define.php?term=%s"
+        ]
+    },
+    {
+        "Trigger": "history",
+        "Title": "History",
+        "SubTitle": "Research - Learning",
+        "Urls": [
+            "https://www.history.com/search?search-field=%s&x=0&y=0"
+        ]
+    },
+    {
+        "Trigger": "rym",
+        "Title": "Rate Your Music",
+        "SubTitle": "Entertainment - Audio",
+        "Urls": [
+            "https://rateyourmusic.com/search?searchterm=%s"
+        ]
+    },
+    {
+        "Trigger": "osrs",
+        "Title": "Old School RuneScape Wiki",
+        "SubTitle": "Entertainment - Games (specific)",
+        "Urls": [
+            "https://oldschool.runescape.wiki/?search=%s&title=Special%3ASearch"
+        ]
+    },
+    {
+        "Trigger": "mw",
+        "Title": "Merriam-Webster Dictionary",
+        "SubTitle": "Research - Reference (words)",
+        "Urls": [
+            "https://www.merriam-webster.com/dictionary/%s"
+        ]
+    },
+    {
+        "Trigger": "steam",
+        "Title": "Steam",
+        "SubTitle": "Entertainment - Games (general)",
+        "Urls": [
+            "https://store.steampowered.com/search/?term=%s"
+        ]
+    },
+    {
+        "Trigger": "rust",
+        "Title": "Rust stdlib docs",
+        "SubTitle": "Tech - Programming",
+        "Urls": [
+            "https://doc.rust-lang.org/std/?search=%s"
+        ]
+    },
+    {
+        "Trigger": "scry",
+        "Title": "Scryfall",
+        "SubTitle": "Entertainment - Games (general)",
+        "Urls": [
+            "https://scryfall.com/search?q=%s",
+            "https://scryfall.com/search?q=%s&unique=prints&as=grid&order=name"
+        ]
+    },
+    {
+        "Trigger": "nixpkgs",
+        "Title": "NixOS Packages",
+        "SubTitle": "Tech - Sysadmin",
+        "Urls": [
+            "https://nixos.org/nixos/packages.html?query=%s"
+        ]
+    },
+    {
+        "Trigger": "wayback",
+        "Title": "Internet Archive: Wayback Machine",
+        "SubTitle": "Tech - Domains",
+        "Urls": [
+            "https://web.archive.org/web/*/%s"
+        ]
+    },
+    {
+        "Trigger": "hn",
+        "Title": "Hacker News",
+        "SubTitle": "Tech - Startups",
+        "Urls": [
+            "https://hn.algolia.com/?q=%s"
+        ]
+    },
+    {
+        "Trigger": "d",
+        "Title": "The Free Dictionary",
+        "SubTitle": "Research - Academic",
+        "Urls": [
+            "https://www.thefreedictionary.com/%s"
+        ]
+    },
+    {
+        "Trigger": "genius",
+        "Title": "genius.com",
+        "SubTitle": "Multimedia - Music (Lyrics)",
+        "Urls": [
+            "https://genius.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "cpp",
+        "Title": "cppreference.com",
+        "SubTitle": "Tech - Languages (c\u002B\u002B)",
+        "Urls": [
+            "https://en.cppreference.com/mwiki/index.php?search=%s"
+        ]
+    },
+    {
+        "Trigger": "crates",
+        "Title": "The Rust community\u0027s crate host",
+        "SubTitle": "Tech - Languages (other)",
+        "Urls": [
+            "https://crates.io/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "rt",
+        "Title": "Rotten Tomatoes",
+        "SubTitle": "Multimedia - Video",
+        "Urls": [
+            "https://www.rottentomatoes.com/search/?search=%s"
+        ]
+    },
+    {
+        "Trigger": "mal",
+        "Title": "My Anime List",
+        "SubTitle": "Entertainment - Movies",
+        "Urls": [
+            "https://myanimelist.net/anime.php?q=%s"
+        ]
+    },
+    {
+        "Trigger": "yf",
+        "Title": "Yahoo Finance",
+        "SubTitle": "Research - Health",
+        "Urls": [
+            "https://finance.yahoo.com/q?s=%s"
+        ]
+    },
+    {
+        "Trigger": "h",
+        "Title": "Hoogle",
+        "SubTitle": "Tech - Languages (haskell)",
+        "Urls": [
+            "https://www.haskell.org/hoogle/?hoogle=%s"
+        ]
+    },
+    {
+        "Trigger": "t",
+        "Title": "Thesaurus.com",
+        "SubTitle": "Research - Reference (words)",
+        "Urls": [
+            "https://www.thesaurus.com/browse/%s"
+        ]
+    },
+    {
+        "Trigger": "bgg",
+        "Title": "Board Game Geek",
+        "SubTitle": "Entertainment - Games (offline)",
+        "Urls": [
+            "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=%s&B1=Go"
+        ]
+    },
+    {
+        "Trigger": "tvt",
+        "Title": "tvtropes",
+        "SubTitle": "Research - Reference (fun)",
+        "Urls": [
+            "https://tvtropes.org/pmwiki/search_result.php?q=%s"
+        ]
+    },
+    {
+        "Trigger": "ji",
+        "Title": "Jisho",
+        "SubTitle": "Research - Reference (words intl)",
+        "Urls": [
+            "https://jisho.org/search/%s"
+        ]
+    },
+    {
+        "Trigger": "jisho",
+        "Title": "Jisho",
+        "SubTitle": "Online Services - Tools",
+        "Urls": [
+            "https://jisho.org/search/%s"
+        ]
+    },
+    {
+        "Trigger": "dcc",
+        "Title": "dict.cc",
+        "SubTitle": " - ",
+        "Urls": [
+            "https://www.dict.cc/?s=%s"
+        ]
+    },
+    {
+        "Trigger": "namu",
+        "Title": "namuwiki",
+        "SubTitle": "Research - Reference",
+        "Urls": [
+            "https://namu.wiki/go/%s"
+        ]
+    },
+    {
+        "Trigger": "rae",
+        "Title": "RAE",
+        "SubTitle": "Online Services - Tools",
+        "Urls": [
+            "https://dle.rae.es/?w=%s"
+        ]
+    },
+    {
+        "Trigger": "pypi",
+        "Title": "PyPI",
+        "SubTitle": "Tech - Languages (python)",
+        "Urls": [
+            "https://pypi.org/search/?q=%s"
+        ]
+    },
+    {
+        "Trigger": "y",
+        "Title": "Yahoo!",
+        "SubTitle": "Online Services - Search",
+        "Urls": [
+            "https://search.yahoo.com/search?p=%s"
+        ]
+    },
+    {
+        "Trigger": "gr",
+        "Title": "Goodreads",
+        "SubTitle": "Multimedia - Books",
+        "Urls": [
+            "https://www.goodreads.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "dpl",
+        "Title": "DeepL",
+        "SubTitle": "Translation - General",
+        "Urls": [
+            "https://www.deepl.com/translator#xx/en/%s"
+        ]
+    },
+    {
+        "Trigger": "bulba",
+        "Title": "Bulbapedia",
+        "SubTitle": "Research - Reference (fun)",
+        "Urls": [
+            "https://bulbapedia.bulbagarden.net/w/index.php?title=Special%3ASearch&search=%s"
+        ]
+    },
+    {
+        "Trigger": "discogs",
+        "Title": "Discogs",
+        "SubTitle": "Multimedia - Music",
+        "Urls": [
+            "https://www.discogs.com/search?q=%s&btn=&type=all"
+        ]
+    },
+    {
+        "Trigger": "lb",
+        "Title": "letterboxd",
+        "SubTitle": "Entertainment - Movies",
+        "Urls": [
+            "https://letterboxd.com/search/%s/"
+        ]
+    },
+    {
+        "Trigger": "ao3",
+        "Title": "Archive of our Own",
+        "SubTitle": "Entertainment - Misc",
+        "Urls": [
+            "https://archiveofourown.org/works/search?utf8=%E2%9C%93&work_search%5Bquery%5D=%s"
+        ]
+    },
+    {
+        "Trigger": "dictcc",
+        "Title": "dict.cc",
+        "SubTitle": "Online Services - Tools",
+        "Urls": [
+            "https://www.dict.cc/?s=%s"
+        ]
+    },
+    {
+        "Trigger": "ali",
+        "Title": "Aliexpress",
+        "SubTitle": "Shopping - Online",
+        "Urls": [
+            "https://www.aliexpress.com/wholesale?SearchText=%s"
+        ]
+    },
+    {
+        "Trigger": "u",
+        "Title": "Urban Dictionary",
+        "SubTitle": "Research - Learning",
+        "Urls": [
+            "https://www.urbandictionary.com/define.php?term=%s"
+        ]
+    },
+    {
+        "Trigger": "urban",
+        "Title": "Urban Dictionary",
+        "SubTitle": "Research - Reference (fun)",
+        "Urls": [
+            "https://www.urbandictionary.com/define.php?term=%s"
+        ]
+    },
+    {
+        "Trigger": "stardewvalley",
+        "Title": "Stardew Valley Wiki",
+        "SubTitle": "Entertainment - Games (offline)",
+        "Urls": [
+            "https://stardewvalleywiki.com/mediawiki/index.php?search=%s"
+        ]
+    },
+    {
+        "Trigger": "py",
+        "Title": "Python",
+        "SubTitle": "Tech - Languages (python)",
+        "Urls": [
+            "https://docs.python.org/3/search.html?q=%s"
+        ]
+    },
+    {
+        "Trigger": "na",
+        "Title": "NAVER",
+        "SubTitle": "Online Services - Search (non-US)",
+        "Urls": [
+            "https://search.naver.com/search.naver?query=%s"
+        ]
+    },
+    {
+        "Trigger": "v",
+        "Title": "DuckDuckGo video search",
+        "SubTitle": "Online Services - Search (DDG)",
+        "Urls": [
+            "https://duckduckgo.com/?q=%s&ia=videos&iax=videos"
+        ]
+    },
+    {
+        "Trigger": "cache",
+        "Title": "Google Cache",
+        "SubTitle": "Online Services - Google",
+        "Urls": [
+            "https://webcache.googleusercontent.com/search?q=cache:%s"
+        ]
+    },
+    {
+        "Trigger": "tmdb",
+        "Title": "TheMovieDB.org",
+        "SubTitle": "Multimedia - Video",
+        "Urls": [
+            "https://www.themoviedb.org/search?query=%s"
+        ]
+    },
+    {
+        "Trigger": "spanish",
+        "Title": "SpanishDict",
+        "SubTitle": "Research - Reference (words intl)",
+        "Urls": [
+            "https://www.spanishdict.com/translate/%s"
+        ]
+    },
+    {
+        "Trigger": "archwiki",
+        "Title": "Arch Linux Wiki",
+        "SubTitle": "Tech - Sysadmin (Arch)",
+        "Urls": [
+            "https://wiki.archlinux.org/index.php?search=%s&title=Special%3ASearch&go=Go"
+        ]
+    },
+    {
+        "Trigger": "tvtropes",
+        "Title": "TV Tropes",
+        "SubTitle": "Entertainment - TV",
+        "Urls": [
+            "https://tvtropes.org/pmwiki/search_result.php?cx=partner-pub-6610802604051523%3Aamzitfn8e7v&cof=FORID%3A10&ie=ISO-8859-1&q=%s&siteurl=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage"
+        ]
+    },
+    {
+        "Trigger": "wr",
+        "Title": "WordReference Definition",
+        "SubTitle": "Research - Learning",
+        "Urls": [
+            "https://www.wordreference.com/definition/%s"
+        ]
+    },
+    {
+        "Trigger": "kym",
+        "Title": "Know Your Meme",
+        "SubTitle": "Research - Reference (fun)",
+        "Urls": [
+            "https://knowyourmeme.com/search?utf8=%E2%9C%93&q=%s"
+        ]
+    },
+    {
+        "Trigger": "archive",
+        "Title": "Internet ",
+        "SubTitle": "Online Services - Tools",
+        "Urls": [
+            "https://archive.org/search.php?query=%s"
+        ]
+    },
+    {
+        "Trigger": "docsrs",
+        "Title": "Docs.rs",
+        "SubTitle": "Tech - Languages (other)",
+        "Urls": [
+            "https://docs.rs/releases/search?query=%s"
+        ]
+    },
+    {
+        "Trigger": "sc",
+        "Title": "SoundCloud",
+        "SubTitle": "Multimedia - Music",
+        "Urls": [
+            "https://soundcloud.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "docker",
+        "Title": "Docker Store",
+        "SubTitle": "Tech - Sysadmin",
+        "Urls": [
+            "https://store.docker.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "mtg",
+        "Title": "Scryfall",
+        "SubTitle": "Entertainment - Games (specific)",
+        "Urls": [
+            "https://scryfall.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "scryfall",
+        "Title": "Scryfall",
+        "SubTitle": "Entertainment - Games (specific)",
+        "Urls": [
+            "https://scryfall.com/search?q=%s"
+        ]
+    },
+    {
+        "Trigger": "n",
+        "Title": "DuckDuckGo News",
+        "SubTitle": "News - Aggregators",
+        "Urls": [
+            "https://duckduckgo.com/?q=%s&iar=news&ia=news"
+        ]
+    },
+    {
+        "Trigger": "rs",
+        "Title": "The RuneScape Wiki",
+        "SubTitle": "Entertainment - Games (specific)",
+        "Urls": [
+            "https://runescape.wiki/?search=%s"
+        ]
+    },
+    {
+        "Trigger": "archpkg",
+        "Title": "Arch Linux Packages",
+        "SubTitle": "Tech - Sysadmin (Arch)",
+        "Urls": [
+            "https://www.archlinux.org/packages/?sort=&q=%s&maintainer=&flagged="
+        ]
+    },
+    {
+        "Trigger": "pixiv",
+        "Title": "Pixiv",
+        "SubTitle": "Multimedia - Images",
+        "Urls": [
+            "https://www.pixiv.net/search.php?word=%s"
+        ]
+    },
+    {
+        "Trigger": "hoogle",
+        "Title": "hoogle",
+        "SubTitle": "Tech - Languages (haskell)",
+        "Urls": [
+            "https://hoogle.haskell.org/?hoogle=%s&scope=set%3Astackage"
+        ]
+    },
+    {
+        "Trigger": "minecraft",
+        "Title": "Official Minecraft Wiki",
+        "SubTitle": "Entertainment - Games (Minecraft)",
+        "Urls": [
+            "https://minecraft.wiki?search=%s"
+        ]
+    },
+    {
+        "Trigger": "ais",
+        "Title": "archive.is",
+        "SubTitle": "Online Services - Tools (URLs)",
+        "Urls": [
+            "https://archive.is/%s"
+        ]
+    },
+    {
+        "Trigger": "alt",
+        "Title": "alternativeTo",
+        "SubTitle": "Online Services - Tools",
+        "Urls": [
+            "https://alternativeto.net/SearchResult.aspx?search=%s"
+        ]
+    },
+    {
+        "Trigger": "drs",
+        "Title": "Docs.rs - Documentation for Rust packages",
+        "SubTitle": "Tech - Programming",
+        "Urls": [
+            "https://docs.rs/%s"
+        ]
+    },
+    {
+        "Trigger": "duden",
+        "Title": "Duden",
+        "SubTitle": "Multimedia - Books",
+        "Urls": [
+            "https://www.duden.de/suchen/dudenonline/%s"
+        ]
+    },
+    {
+        "Trigger": "walmart",
+        "Title": "Walmart",
+        "SubTitle": "Shopping - Big box/department",
+        "Urls": [
+            "https://www.walmart.com/search/?query=%s"
+        ]
+    },
+    {
+        "Trigger": "pokewiki",
+        "Title": "Pok\u00E9Wiki",
+        "SubTitle": "Entertainment - Games (Pokemon)",
+        "Urls": [
+            "https://www.pokewiki.de/index.php?search=%s&button=&title=Spezial%3ASuche"
+        ]
+    },
+    {
+        "Trigger": "python",
+        "Title": "Python",
+        "SubTitle": "Tech - Languages (python)",
+        "Urls": [
+            "https://docs.python.org/3/search.html?q=%s"
+        ]
+    }
+]

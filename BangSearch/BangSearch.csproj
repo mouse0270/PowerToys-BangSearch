@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="..\libs\PowerToys.Common.UI.dll" />
+    <Reference Include="..\libs\PowerToys.ManagedCommon.dll" />
+    <Reference Include="..\libs\PowerToys.Settings.UI.Lib.dll" />
+    <Reference Include="..\libs\Wox.Infrastructure.dll" />
+    <Reference Include="..\libs\Wox.Plugin.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="plugin.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Images/*.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Bangs.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

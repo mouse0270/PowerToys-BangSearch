@@ -1,0 +1,14 @@
+{
+  "ID": "39CACA36FD274314BEA058A0FACB97EC",
+  "Disabled": false,
+  "ActionKeyword": "!",
+  "IsGlobal": false,
+  "Name": "BangSearch",
+  "Author": "Mouse0270",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Mouse0270/PowerToys-BangSearch",
+  "ExecuteFileName": "BangSearch.dll",
+  "IcoPathDark": "Images\\bangsearch.dark.png",
+  "IcoPathLight": "Images\\bangsearch.light.png"
+}
